@@ -1,0 +1,8 @@
+{
+  "token": "PUT_YOUR_BOT_TOKEN_HERE",
+  "mod_log_channel_id": null,
+  "hamming_threshold": 10,
+  "min_keyword_score": 2,
+  "delete_on_match": true,
+  "command_prefix": "!"
+}
